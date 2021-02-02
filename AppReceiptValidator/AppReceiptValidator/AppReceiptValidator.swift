@@ -6,7 +6,7 @@
 //  Copyright © 2017 IdeasOnCanvas GmbH. All rights reserved.
 //
 
-@testable import ASN1Decoder
+import ASN1Decoder
 import CCryptoBoringSSL
 import Crypto
 import Foundation
